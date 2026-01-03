@@ -1,0 +1,3 @@
+Content for second file
+
+I forgot this part, Good to have detached HEAD mode
